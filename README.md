@@ -19,49 +19,43 @@ I'm open to internships and part-time roles in software, especially where AI is 
 
 Most of my code lives in private repositories, because these are live products with real users. I'm happy to walk through the code in an interview.
 
-<table>
-  <tr>
-    <td width="46%"><a href="https://semihakademi.com"><img src="assets/semih.jpg" alt="Semih Akademi" /></a></td>
-    <td>
-      <h3>Semih Akademi</h3>
-      A study platform for middle school students in Türkiye. Students log their daily study, follow weekly plans and track practice exams; parents get a weekly progress report.
-      <ul>
-        <li>13 active students</li>
-        <li>Built alone, end to end: student app, coach panel, backend</li>
-        <li>AI study coach on the Claude API, prompt caching cut its running cost by 66%</li>
-      </ul>
-      <code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Claude API</code><br/><br/>
-      <a href="https://semihakademi.com">Live site</a> · 🔒 Private repo
-    </td>
-  </tr>
-  <tr>
-    <td width="46%"><a href="https://www.royalgymkusadasi.com"><img src="assets/royalgym.jpg" alt="Royal Gym Kuşadası" /></a></td>
-    <td>
-      <h3>Royal Gym Kuşadası</h3>
-      Website for a local gym, designed and built from scratch for a real client. I also run the gym's social media.
-      <ul>
-        <li>Membership plans, photo gallery, BMI calculator</li>
-        <li>Location, opening hours and WhatsApp contact</li>
-      </ul>
-      <code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Vercel</code><br/><br/>
-      <a href="https://www.royalgymkusadasi.com">Live site</a> · 🔒 Private repo
-    </td>
-  </tr>
-  <tr>
-    <td width="46%"><a href="https://fila-mental.vercel.app"><img src="assets/filamental.jpg" alt="FilaMental" /></a></td>
-    <td>
-      <h3>FilaMental</h3>
-      A stock and cost tracker for 3D printing workshops, piloted with two workshops.
-      <ul>
-        <li>Filament inventory that updates itself when a print is logged</li>
-        <li>Print cost, profit margin, income and expense tracking</li>
-        <li>Free and premium plans via Lemon Squeezy subscriptions</li>
-      </ul>
-      <code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Lemon Squeezy</code><br/><br/>
-      <a href="https://fila-mental.vercel.app">Live site</a> · 🔒 Private repo
-    </td>
-  </tr>
-</table>
+### Semih Akademi
+
+<a href="https://semihakademi.com"><img src="assets/semih.jpg" alt="Semih Akademi" width="720" /></a>
+
+A study platform for middle school students in Türkiye. Students log their daily study, follow weekly plans and track practice exams; parents get a weekly progress report.
+
+- 13 active students
+- Built alone, end to end: student app, coach panel, backend
+- AI study coach on the Claude API, prompt caching cut its running cost by 66%
+
+`Next.js` `TypeScript` `Supabase` `Claude API`  
+[Live site](https://semihakademi.com) · 🔒 Private repo
+
+### Royal Gym Kuşadası
+
+<a href="https://www.royalgymkusadasi.com"><img src="assets/royalgym.jpg" alt="Royal Gym Kuşadası" width="720" /></a>
+
+Website for a local gym, designed and built from scratch for a real client. I also run the gym's social media.
+
+- Membership plans, photo gallery, BMI calculator
+- Location, opening hours and WhatsApp contact
+
+`React` `Vite` `Tailwind CSS` `Vercel`  
+[Live site](https://www.royalgymkusadasi.com) · 🔒 Private repo
+
+### FilaMental
+
+<a href="https://fila-mental.vercel.app"><img src="assets/filamental.jpg" alt="FilaMental" width="720" /></a>
+
+A stock and cost tracker for 3D printing workshops, piloted with two workshops.
+
+- Filament inventory that updates itself when a print is logged
+- Print cost, profit margin, income and expense tracking
+- Free and premium plans via Lemon Squeezy subscriptions
+
+`Next.js` `TypeScript` `Supabase` `Lemon Squeezy`  
+[Live site](https://fila-mental.vercel.app) · 🔒 Private repo
 
 ## Tech I use
 

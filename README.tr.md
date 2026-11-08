@@ -19,49 +19,43 @@ Yazılım alanında staj ve yarı zamanlı pozisyonlara açığım; özellikle y
 
 Kodlarımın çoğu private repolarda, çünkü bunlar gerçek kullanıcısı olan, yayındaki ürünler. Mülakatta kodu birlikte incelemekten memnuniyet duyarım.
 
-<table>
-  <tr>
-    <td width="46%"><a href="https://semihakademi.com"><img src="assets/semih.jpg" alt="Semih Akademi" /></a></td>
-    <td>
-      <h3>Semih Akademi</h3>
-      Türkiye'deki ortaokul öğrencileri için bir çalışma platformu. Öğrenciler günlük çalışmalarını kaydediyor, haftalık planlarını takip ediyor ve denemelerini izliyor; veliler her hafta gelişim raporu alıyor.
-      <ul>
-        <li>13 aktif öğrenci</li>
-        <li>Uçtan uca tek başıma geliştirdim: öğrenci uygulaması, koç paneli, backend</li>
-        <li>Claude API üzerinde yapay zeka çalışma koçu; prompt caching ile çalışma maliyeti %66 düştü</li>
-      </ul>
-      <code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Claude API</code><br/><br/>
-      <a href="https://semihakademi.com">Canlı site</a> · 🔒 Private repo
-    </td>
-  </tr>
-  <tr>
-    <td width="46%"><a href="https://www.royalgymkusadasi.com"><img src="assets/royalgym.jpg" alt="Royal Gym Kuşadası" /></a></td>
-    <td>
-      <h3>Royal Gym Kuşadası</h3>
-      Kuşadası'nda bir spor salonu için, gerçek bir müşteriye sıfırdan tasarlayıp geliştirdiğim web sitesi. Salonun sosyal medyasını da ben yönetiyorum.
-      <ul>
-        <li>Üyelik paketleri, fotoğraf galerisi, VKİ hesaplayıcı</li>
-        <li>Konum, çalışma saatleri ve WhatsApp iletişimi</li>
-      </ul>
-      <code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Vercel</code><br/><br/>
-      <a href="https://www.royalgymkusadasi.com">Canlı site</a> · 🔒 Private repo
-    </td>
-  </tr>
-  <tr>
-    <td width="46%"><a href="https://fila-mental.vercel.app"><img src="assets/filamental.jpg" alt="FilaMental" /></a></td>
-    <td>
-      <h3>FilaMental</h3>
-      3D baskı atölyeleri için stok ve maliyet takip uygulaması; iki atölyeyle pilot olarak kullanıldı.
-      <ul>
-        <li>Baskı kaydedildiğinde kendini güncelleyen filament envanteri</li>
-        <li>Baskı maliyeti, kâr marjı, gelir ve gider takibi</li>
-        <li>Lemon Squeezy abonelikleriyle ücretsiz ve premium planlar</li>
-      </ul>
-      <code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Lemon Squeezy</code><br/><br/>
-      <a href="https://fila-mental.vercel.app">Canlı site</a> · 🔒 Private repo
-    </td>
-  </tr>
-</table>
+### Semih Akademi
+
+<a href="https://semihakademi.com"><img src="assets/semih.jpg" alt="Semih Akademi" width="720" /></a>
+
+Türkiye'deki ortaokul öğrencileri için bir çalışma platformu. Öğrenciler günlük çalışmalarını kaydediyor, haftalık planlarını takip ediyor ve denemelerini izliyor; veliler her hafta gelişim raporu alıyor.
+
+- 13 aktif öğrenci
+- Uçtan uca tek başıma geliştirdim: öğrenci uygulaması, koç paneli, backend
+- Claude API üzerinde yapay zeka çalışma koçu; prompt caching ile çalışma maliyeti %66 düştü
+
+`Next.js` `TypeScript` `Supabase` `Claude API`  
+[Canlı site](https://semihakademi.com) · 🔒 Private repo
+
+### Royal Gym Kuşadası
+
+<a href="https://www.royalgymkusadasi.com"><img src="assets/royalgym.jpg" alt="Royal Gym Kuşadası" width="720" /></a>
+
+Kuşadası'nda bir spor salonu için, gerçek bir müşteriye sıfırdan tasarlayıp geliştirdiğim web sitesi. Salonun sosyal medyasını da ben yönetiyorum.
+
+- Üyelik paketleri, fotoğraf galerisi, VKİ hesaplayıcı
+- Konum, çalışma saatleri ve WhatsApp iletişimi
+
+`React` `Vite` `Tailwind CSS` `Vercel`  
+[Canlı site](https://www.royalgymkusadasi.com) · 🔒 Private repo
+
+### FilaMental
+
+<a href="https://fila-mental.vercel.app"><img src="assets/filamental.jpg" alt="FilaMental" width="720" /></a>
+
+3D baskı atölyeleri için stok ve maliyet takip uygulaması; iki atölyeyle pilot olarak kullanıldı.
+
+- Baskı kaydedildiğinde kendini güncelleyen filament envanteri
+- Baskı maliyeti, kâr marjı, gelir ve gider takibi
+- Lemon Squeezy abonelikleriyle ücretsiz ve premium planlar
+
+`Next.js` `TypeScript` `Supabase` `Lemon Squeezy`  
+[Canlı site](https://fila-mental.vercel.app) · 🔒 Private repo
 
 ## Kullandığım teknolojiler
 
